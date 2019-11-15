@@ -1,0 +1,14 @@
+C:\Users\r1m1nrao\source\repos\OrderApi\OrderApi\bin\Debug\netcoreapp2.2\OrderApi.deps.json
+C:\Users\r1m1nrao\source\repos\OrderApi\OrderApi\bin\Debug\netcoreapp2.2\OrderApi.runtimeconfig.json
+C:\Users\r1m1nrao\source\repos\OrderApi\OrderApi\bin\Debug\netcoreapp2.2\OrderApi.runtimeconfig.dev.json
+C:\Users\r1m1nrao\source\repos\OrderApi\OrderApi\bin\Debug\netcoreapp2.2\OrderApi.dll
+C:\Users\r1m1nrao\source\repos\OrderApi\OrderApi\bin\Debug\netcoreapp2.2\OrderApi.pdb
+C:\Users\r1m1nrao\source\repos\OrderApi\OrderApi\obj\Debug\netcoreapp2.2\OrderApi.csprojAssemblyReference.cache
+C:\Users\r1m1nrao\source\repos\OrderApi\OrderApi\obj\Debug\netcoreapp2.2\OrderApi.csproj.CoreCompileInputs.cache
+C:\Users\r1m1nrao\source\repos\OrderApi\OrderApi\obj\Debug\netcoreapp2.2\OrderApi.RazorAssemblyInfo.cache
+C:\Users\r1m1nrao\source\repos\OrderApi\OrderApi\obj\Debug\netcoreapp2.2\OrderApi.RazorAssemblyInfo.cs
+C:\Users\r1m1nrao\source\repos\OrderApi\OrderApi\obj\Debug\netcoreapp2.2\OrderApi.AssemblyInfoInputs.cache
+C:\Users\r1m1nrao\source\repos\OrderApi\OrderApi\obj\Debug\netcoreapp2.2\OrderApi.AssemblyInfo.cs
+C:\Users\r1m1nrao\source\repos\OrderApi\OrderApi\obj\Debug\netcoreapp2.2\OrderApi.RazorTargetAssemblyInfo.cache
+C:\Users\r1m1nrao\source\repos\OrderApi\OrderApi\obj\Debug\netcoreapp2.2\OrderApi.dll
+C:\Users\r1m1nrao\source\repos\OrderApi\OrderApi\obj\Debug\netcoreapp2.2\OrderApi.pdb
